@@ -1,10 +1,12 @@
 // Flexible Select - jQuery plugin to add "Create New" link to select element.
 //
+// https://github.com/coryschires/rails-flexible-select
 // Version 0.0.1
-// 
+//
 // Dual licensed under the MIT and GPL licenses:
 // http://www.opensource.org/licenses/mit-license.php
 // http://www.gnu.org/licenses/gpl.html
+//
 //
 (function($) {
 
