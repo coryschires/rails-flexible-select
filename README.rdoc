@@ -8,7 +8,7 @@ just too powerful for such a simple task (e.g. ajax autocomplete).
 Flexible Select keeps things as simple as possible. The plugin
 adds a 'Create New' link inside a standard html drop select. When clicked,
 the link opens an ordinary javascript prompt window where the user can 
-type a name. After clicking +Ok+, this value gets sent back to the server 
+type a name. After clicking "Ok", this value gets sent back to the server 
 via ajax and the newly created option is automatically added to the select 
 element and set as the selected option.
 
