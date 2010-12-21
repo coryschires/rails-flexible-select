@@ -1,6 +1,6 @@
 = Rails Flexible Select jQuery Plugin
 
-Flexible Select solves a common problem. Often we want the user to choose
+Rails Flexible Select solves a common problem. Often we want the user to choose
 an option from a drop select or, if they cannot find the option they need,
 create a new option. There are lots solutions to this problem but most are 
 just too powerful for such a simple task (e.g. ajax autocomplete).
@@ -66,3 +66,9 @@ whatever you like, but here's some reasonable styles to get you started:
      }
 
 Note that option elements do not always style consistently across browsers.
+
+== Will this only work with Rails?
+No. It will work with anything. The script will send the ajax request regardless of
+what language you're using. Of course, you'll need to handle things a bit differently
+on the server-side but it shouldn't be too difficult.
+
